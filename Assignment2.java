@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class App {
+public class Assignment2 {
     public static void main(String[] args) throws Exception {
         float grade;
         char letter = 'A';
